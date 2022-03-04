@@ -1,2 +1,2 @@
 # odin-recipes
-This is the start of my HTML projects
+This is the start of my HTML projects I will be using some of the basic HTML functions to write up a recipe which is composed of grocery lists as well as step-by-step isntructions, while also adding images in the process. 
