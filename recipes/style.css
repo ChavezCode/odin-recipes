@@ -1,0 +1,51 @@
+/* images */
+
+.proportion {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+
+/*background*/
+
+.background-mojito {
+    background-color: lightskyblue;
+}
+
+.background-chorizo {
+    background-color: olive;
+}
+
+.background-vmacnc { 
+    background-color: darkslategray;
+}
+/* titles*/
+
+.title,
+.mojito,
+.chorizo,
+.vmacnc {
+    text-align: center;
+    font-weight: bold;
+    font-size: 32px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.mojito {
+    color:limegreen;
+}
+
+.chorizo {
+    color: black;
+}
+
+.vmacnc {
+    color:darkgoldenrod;
+}
+/*Description*/
+
+.text {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20;
+}
